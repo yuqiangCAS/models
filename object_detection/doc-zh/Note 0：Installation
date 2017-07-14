@@ -1,0 +1,3 @@
+1. 需要TensorFlow 1.2以上，而不是官方的1.1以上。
+2. 可能需要python 2.7，而不能是python 3。
+3. 需要通过sys.path.append的方式增加路径，便于找到库。
